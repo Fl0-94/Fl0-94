@@ -20,6 +20,7 @@ https://stats.fm/zertyboy45/artists
 💪 Compétences
 
 - Langages de programmation : JavaScript, HTML/CSS
+- Je n'ai pas encore réalisé de projet dans le développement web mais je suis très excité d'en commencé !
 
 📳 Contact
 
