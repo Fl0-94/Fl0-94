@@ -13,7 +13,7 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 
 ## Mes Artistes préférés 🎵
 
-![https://ibb.co/YNd4mLg](https://stats.fm/zertyboy45/artists)
+https://stats.fm/zertyboy45/artists
 
 ## Compétences
 
