@@ -13,8 +13,9 @@ https://stats.fm/zertyboy45/artists
 
 🎮 Mes Jeux préférés
 
-![Spider Man](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.playstation.com%2Ffr-BE%2Fproduct%2FEP9000-CUSA11993_00-000000000MSMGOTY&psig=AOvVaw2b3QawEIb7rIFBUETWlteC&ust=1694609637165000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD5if2OpYEDFQAAAAAdAAAAABAE)
-
+- Spider Man
+- The Last of US : Part II
+- Le bon vieux Rainbow Six Siege
 
 💪 Compétences
 
