@@ -1,8 +1,8 @@
-# Mon Profil GitHub
+👨‍💻 Mon Profil GitHub
 
 Salut ! Moi c'est Florian voici une petite présentation de moi !
 
-🗒️ Présentation
+🗒️ Moi
 
 Je suis un passionné d'informatique. J'ai toujours aimé le monde de la technologies et je m'informe toujours sur de nouvelles technologies. 
 J'adore aussi les jeux-vidéos et regarder des films et series. 
