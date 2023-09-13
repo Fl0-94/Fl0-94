@@ -7,7 +7,7 @@ Salut ! Moi c'est Florian voici une petite présentation de moi !
 Je suis un passionné d'informatique. J'ai toujours aimé le monde de la technologies et je m'informe toujours sur de nouvelles technologies. 
 J'adore aussi les jeux-vidéos et regarder des films et series. 
 
-🎵 Mes Artistes préférés 
+🎵 Ma musique préféré 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zertyboy45&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
