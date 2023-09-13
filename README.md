@@ -23,6 +23,11 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 - Langages de programmation : JavaScript, HTML/CSS
 - Je n'ai pas encore réalisé de projet dans le développement web mais je suis très excité d'en commencé !
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0-94&show_icons=true&theme=radical)
+
+
+
+
 📳 Contact
 
 - LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/florian-d-70a926176/)
