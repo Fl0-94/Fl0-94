@@ -30,5 +30,5 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 
 📳 Contact
 
-- LinkedIn : [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-d-70a926176/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-d-70a926176/) 
 - Mon Mail : florian.decodtspro@gmail.com
