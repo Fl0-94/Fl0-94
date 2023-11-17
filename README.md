@@ -20,7 +20,7 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 
 💪 Compétences
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
 - Je n'ai pas encore réalisé de projet dans le développement web mais je suis très excité d'en commencé !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0-94&show_icons=true&theme=radical)
