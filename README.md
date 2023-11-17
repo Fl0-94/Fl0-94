@@ -20,7 +20,9 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 
 💪 Compétences
 
-- Langages de programmation : JavaScript, HTML/CSS
+[JavaScript](https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png)
+![HTML5](URL_du_logo_HTML5)
+![CSS3](URL_du_logo_CSS3)
 - Je n'ai pas encore réalisé de projet dans le développement web mais je suis très excité d'en commencé !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0-94&show_icons=true&theme=radical)
