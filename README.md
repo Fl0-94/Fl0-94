@@ -22,12 +22,6 @@ J'adore aussi les jeux-vidéos et regarder des films et series.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0-94&show_icons=true&theme=radical)
-
-
-
-
 📳 Contact
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-d-70a926176/) 
