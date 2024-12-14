@@ -5,14 +5,8 @@ Salut ! Moi c'est Florian voici une petite présentation de moi !
 🗒️ Moi
 
 Je suis un passionné d'informatique. J'ai toujours aimé le monde de la technologies et je m'informe toujours sur de nouvelles technologies. 
-J'adore aussi les jeux-vidéos et regarder des films et series. 
+J'adore aussi les jeux-vidéos et je suis un passionné de film et serie. 
 
-
-🎮 Mes Jeux préférés
-
-- Spider Man
-- The Last of US : Part II
-- Le bon vieux Rainbow Six Siege
 
 💪 Compétences
 
